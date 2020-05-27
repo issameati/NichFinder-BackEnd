@@ -6,7 +6,7 @@
 
 ### you have to change mongodb uri in config/config.env (MONGO_URI) to yours
 
-### example
+### example :
 
 ```
 MONGO_URI=YOUR URI HERE
